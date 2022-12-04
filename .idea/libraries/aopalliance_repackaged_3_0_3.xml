@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="aopalliance-repackaged-3.0.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/SistemasDistribuidos/jaxrs-ri-3.1.0/jaxrs-ri/ext/aopalliance-repackaged-3.0.3.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/SistemasDistribuidos/jaxrs-ri-3.1.0/jaxrs-ri/ext/hk2-api-3.0.3.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/SistemasDistribuidos/jaxrs-ri-3.1.0/jaxrs-ri/ext/hk2-locator-3.0.3.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/SistemasDistribuidos/jaxrs-ri-3.1.0/jaxrs-ri/ext/hk2-utils-3.0.3.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/SistemasDistribuidos/jaxrs-ri-3.1.0/jaxrs-ri/ext/jakarta.activation-api-2.1.0.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/SistemasDistribuidos/jaxrs-ri-3.1.0/jaxrs-ri/ext/jakarta.annotation-api-2.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/SistemasDistribuidos/jaxrs-ri-3.1.0/jaxrs-ri/ext/jakarta.inject-api-2.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/SistemasDistribuidos/jaxrs-ri-3.1.0/jaxrs-ri/ext/jakarta.json-api-2.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/SistemasDistribuidos/jaxrs-ri-3.1.0/jaxrs-ri/ext/jakarta.json.bind-api-3.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/SistemasDistribuidos/jaxrs-ri-3.1.0/jaxrs-ri/ext/jakarta.persistence-api-3.1.0.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/SistemasDistribuidos/jaxrs-ri-3.1.0/jaxrs-ri/ext/jakarta.servlet-api-6.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/SistemasDistribuidos/jaxrs-ri-3.1.0/jaxrs-ri/ext/jakarta.validation-api-3.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/SistemasDistribuidos/jaxrs-ri-3.1.0/jaxrs-ri/ext/jakarta.xml.bind-api-4.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/SistemasDistribuidos/jaxrs-ri-3.1.0/jaxrs-ri/ext/javassist-3.28.0-GA.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/SistemasDistribuidos/jaxrs-ri-3.1.0/jaxrs-ri/ext/osgi-resource-locator-1.0.3.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/SistemasDistribuidos/jaxrs-ri-3.1.0/jaxrs-ri/ext/parsson-1.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/SistemasDistribuidos/jaxrs-ri-3.1.0/jaxrs-ri/ext/yasson-3.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/SistemasDistribuidos/jaxrs-ri-3.1.0/jaxrs-ri/ext/org.osgi.core-6.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Documents/SistemasDistribuidos/jaxrs-ri-3.1.0/jaxrs-ri/ext/jakarta.ws.rs-api-3.1.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/SistemasDistribuidos/jaxrs-ri-3.1.0/jaxrs-ri/ext/org.osgi.core-6.0.0.jar!/OSGI-OPT/src" />
+    </SOURCES>
+  </library>
+</component>
